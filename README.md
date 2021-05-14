@@ -14,4 +14,5 @@
 - ⚡ Fun fact: responsible for over 60 plants, with my 3 star ✨ yasmines being my nose's favourites 
 
 [![Panayiotis GitHub stats](https://github-readme-stats.vercel.app/api?username=pankgeorg)](https://github.com/pankgeorg)
-[![not so accurate kloc count](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![not so accurate kloc count](https://github-readme-stats.vercel.app/api/top-langs/?username=pankgeorg)](https://github.com/anuraghazra/github-readme-stats)
