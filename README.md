@@ -6,13 +6,9 @@
 
 
 - 🔭 I’m currently working on [Pluto.jl](https://github.com/fonsp/Pluto.jl) to grow its UI, deployment and dashboard capabilities. 
-- 🌱 I’m currently learning julia, best HR practices and how plants grow
+- 🌱 I’m currently learning julia, best HR practices and how plants grow. Also want to disrupt fire-fighting and carbon captures
 - 👯 I’m looking to collaborate on projects focused in healthcare, development tools, climate change
 - 💬 Ask me about React, CSS, Python, SQL, Excel, how to say no 
 - 📫 How to reach me: pankgeorg@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: responsible for over 60 plants, with my 3 star ✨ yasmines being my nose's favourites 
-
-[![Panayiotis GitHub stats](https://github-readme-stats.vercel.app/api?username=pankgeorg)](https://github.com/pankgeorg)
-
-[![not so accurate kloc count](https://github-readme-stats.vercel.app/api/top-langs/?username=pankgeorg&layout=compact)](https://github.com/pankgeorg)
