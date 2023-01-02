@@ -8,4 +8,3 @@
 - 🙋🏾 Volunteer: help local school ["company"](https://reuzplus.gr/) do internet
 - Hobbies: 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 🌱 🌱 🌱 ⛵ 📈 ☁️ 💃🏾 (accurate)
 - Out of code, I want to: disrupt fire-fighting and carbon captures
-- 
