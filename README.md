@@ -1,14 +1,11 @@
-### Hi there 👋
+### Hellooo there 👋
 
-<!--
-**pankgeorg/pankgeorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-
-- 🔭 I’m currently working on [Pluto.jl](https://github.com/fonsp/Pluto.jl) to grow its UI, deployment and dashboard capabilities. 
-- 🌱 I’m currently learning julia, best HR practices and how plants grow. Also want to disrupt fire-fighting and carbon captures
-- 👯 I’m looking to collaborate on projects focused in healthcare, development tools, climate change
-- 💬 Ask me about React, CSS, Python, SQL, Excel, how to say no 
-- 📫 How to reach me: pankgeorg@gmail.com
+- 🔭 [Pluto.jl](https://github.com/fonsp/Pluto.jl): UI, deployment and dashboard capabilities. 
+- 🏫 learning (more) julia, (more) javascript, more about authentication, deployment and how teams work
+- 👯 on projects focused about healthcare, development tools, climate change
+- 💬 Ask me about Pluto.jl, Julia, React, Vue, CSS, Python, SQL, Excel.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: responsible for over 60 plants, with my 3 star ✨ yasmines being my nose's favourites 
+- 🙋🏾 Volunteer: help local school ["company"](https://reuzplus.gr/) do internet
+- Hobbies: 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 🌱 🌱 🌱 ⛵ 📈 ☁️ 💃🏾 (accurate)
+- Out of code, I want to: disrupt fire-fighting and carbon captures
+- 
