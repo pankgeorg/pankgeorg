@@ -5,6 +5,6 @@
 - 👯 on projects focused about healthcare, development tools, climate change
 - 💬 Ask me about Pluto.jl, Julia, React, Vue, CSS, Python, SQL, Excel.
 - 😄 Pronouns: he/him
-- 🙋🏾 Volunteer: help local school ["company"](https://reuzplus.gr/) do internet
+- 🙋🏾 Volunteer: help local school [social company](https://reuzplus.gr/) do internet
 - Hobbies: 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 🌱 🌱 🌱 ⛵ 📈 ☁️ 💃🏾 (accurate)
 - Out of code, I want to: disrupt fire-fighting and carbon captures
