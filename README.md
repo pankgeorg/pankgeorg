@@ -6,5 +6,5 @@
 - 💬 Ask me about Pluto.jl, Julia, React, Vue, CSS, Python, SQL, Excel.
 - 😄 Pronouns: he/him
 - 🙋🏾 Volunteer: help local school [social company](https://reuzplus.gr/) do internet
-- Hobbies: 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 🌱 🌱 🌱 ⛵ 📈 ☁️ 💃🏾 (accurate)
+- Hobbies: 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 👨🏾‍🍼 🌱 🌱 🌱 ⛵ 📈 ☁️ 💃🏾
 - Out of code, I want to: disrupt fire-fighting and carbon captures
